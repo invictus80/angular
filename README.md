@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/sgovind/525eb4ef-332a-4714-9512-241642799d28/5d94f64f-c906-4a24-be29-3488ed47594b/_apis/work/boardbadge/d53343be-9bad-4e93-8ffb-7d5d8cbe6c9a)](https://dev.azure.com/sgovind/525eb4ef-332a-4714-9512-241642799d28/_boards/board/t/5d94f64f-c906-4a24-be29-3488ed47594b/Microsoft.RequirementCategory)
 <h1 align="center">Angular - The modern web developer's platform.</h1>
 
 <p align="center">
